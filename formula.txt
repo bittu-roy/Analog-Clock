@@ -1,0 +1,7 @@
+H-> Hours, M-> Minutes, S-> Secs.
+
+For Hour Hand-->       (30h + m/2).
+
+For Minute Hand-->     (6m^o)
+
+For Seconds Hand-->    (6s^o)
